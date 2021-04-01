@@ -1,0 +1,23 @@
+.signinContainer {
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    padding: 40px; 
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'New Tegomin', serif;
+}
+.fbProfileContainer {
+    font-family: 'New Tegomin', serif;
+    font-size: 15px;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.377);
+    padding: 20px;
+}
+.fbImage {
+    width:5%;
+    border-radius: 50px;
+}
+.slogan {
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
